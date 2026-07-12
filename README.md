@@ -6,7 +6,7 @@
 
 - 🔭 I'm currently working on **Tsinghua SIGS**
 
-- 🌱 I'm currently learning **LLM sagety;Hallucination;Cipher**
+- 🌱 I'm currently learning **LLM safety;Hallucination;Cipher**
 
 - 📫 How to reach me **KenGia_Chan@outlook.com**
 
